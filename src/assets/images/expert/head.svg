@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1357px" viewBox="0 0 1920 1357" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <title>头颈分组</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#19AAF7" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.89720826" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#19AAF7" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.3382601%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#45ABE3" offset="0%"></stop>
+            <stop stop-color="#D05D7F" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="网页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="点评专家介绍页" transform="translate(0.000000, -1089.000000)">
+            <rect id="矩形备份-2" fill="url(#linearGradient-1)" x="0" y="282" width="1920" height="896"></rect>
+            <rect id="矩形备份" fill="url(#linearGradient-2)" x="0" y="1170" width="1920" height="1314"></rect>
+            <rect id="矩形备份-10" fill="url(#linearGradient-3)" fill-rule="nonzero" x="103" y="1157" width="170" height="10"></rect>
+            <text id="头颈分组" opacity="0.8" font-family="SourceHanSansSC-Bold, Source Han Sans SC" font-size="36" font-weight="bold" fill="#000000">
+                <tspan x="103" y="1152">头颈分组</tspan>
+            </text>
+            <text id="朱明旺" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="2331">朱明旺</tspan>
+            </text>
+            <text id="首都医科大学三博脑科医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="2331">首都医科大学三博脑科医院</tspan>
+            </text>
+            <text id="卢-洁" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2158">卢　洁</tspan>
+            </text>
+            <text id="首都医科大学宣武医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2158">首都医科大学宣武医院</tspan>
+            </text>
+            <text id="满凤媛" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2375">满凤媛</tspan>
+            </text>
+            <text id="中国人民解放军火箭军总医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2375">中国人民解放军火箭军总医院</tspan>
+            </text>
+            <text id="陈-涓" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1369">陈　涓</tspan>
+            </text>
+            <text id="陈英敏" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1413">陈英敏</tspan>
+            </text>
+            <text id="耿左军" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1545">耿左军</tspan>
+            </text>
+            <text id="卫生部北京医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1369">卫生部北京医院</tspan>
+            </text>
+            <text id="河北省人民医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1413">河北省人民医院</tspan>
+            </text>
+            <text id="河北医科大学第二医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1545">河北医科大学第二医院</tspan>
+            </text>
+            <text id="刘亚欧" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2073">刘亚欧</tspan>
+            </text>
+            <text id="首都医科大学附属北京天坛医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2073">首都医科大学附属北京天坛医院</tspan>
+            </text>
+            <text id="彭如臣" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1275">彭如臣</tspan>
+            </text>
+            <text id="王志群" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1539">王志群</tspan>
+            </text>
+            <text id="严志汉" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1935">严志汉</tspan>
+            </text>
+            <text id="首都医科大学附属北京潞河医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1275">首都医科大学附属北京潞河医院</tspan>
+            </text>
+            <text id="航天中心医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1539">航天中心医院</tspan>
+            </text>
+            <text id="温州医科大学附属第二医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1935">温州医科大学附属第二医院</tspan>
+            </text>
+            <text id="刘-筠" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2029">刘　筠</tspan>
+            </text>
+            <text id="天津市人民医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2029">天津市人民医院</tspan>
+            </text>
+            <text id="夏-爽" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1627">夏　爽</tspan>
+            </text>
+            <text id="天津市第一中心医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1627">天津市第一中心医院</tspan>
+            </text>
+            <text id="靳-松" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1765">靳　松</tspan>
+            </text>
+            <text id="天津环湖医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1765">天津环湖医院</tspan>
+            </text>
+            <text id="张雪宁" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="2243">张雪宁</tspan>
+            </text>
+            <text id="天津医科大学第二医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="2243">天津医科大学第二医院</tspan>
+            </text>
+            <text id="肖喜刚" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1715">肖喜刚</tspan>
+            </text>
+            <text id="哈尔滨医科大学附属第一院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1715">哈尔滨医科大学附属第一院</tspan>
+            </text>
+            <text id="袁庆海" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="2067">袁庆海</tspan>
+            </text>
+            <text id="吉林大学第二医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="2067">吉林大学第二医院</tspan>
+            </text>
+            <text id="李松柏" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1809">李松柏</tspan>
+            </text>
+            <text id="中国医科大学附属第一医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1809">中国医科大学附属第一医院</tspan>
+            </text>
+            <text id="范国光" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1501">范国光</tspan>
+            </text>
+            <text id="中国医科大学附属第一医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1501">中国医科大学附属第一医院</tspan>
+            </text>
+            <text id="韩-丹" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1589">韩　丹</tspan>
+            </text>
+            <text id="昆明医科大学第一附属医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1589">昆明医科大学第一附属医院</tspan>
+            </text>
+            <text id="廖伟华" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1897">廖伟华</tspan>
+            </text>
+            <text id="中南大学湘雅医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1897">中南大学湘雅医院</tspan>
+            </text>
+            <text id="徐海波" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1759">徐海波</tspan>
+            </text>
+            <text id="武汉大学中南医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1759">武汉大学中南医院</tspan>
+            </text>
+            <text id="刘-军" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1985">刘　军</tspan>
+            </text>
+            <text id="中南大学湘雅二院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1985">中南大学湘雅二院</tspan>
+            </text>
+            <text id="徐良洲" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1847">徐良洲</tspan>
+            </text>
+            <text id="武汉市中医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1847">武汉市中医院</tspan>
+            </text>
+            <text id="黄文才" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1677">黄文才</tspan>
+            </text>
+            <text id="广州军区武汉总医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1677">广州军区武汉总医院</tspan>
+            </text>
+            <text id="乔-英" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1319">乔　英</tspan>
+            </text>
+            <text id="山西医科大学第一医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1319">山西医科大学第一医院</tspan>
+            </text>
+            <text id="周俊林" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="2287">周俊林</tspan>
+            </text>
+            <text id="兰州大学第二医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="2287">兰州大学第二医院</tspan>
+            </text>
+            <text id="陈-兵" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1281">陈　兵</tspan>
+            </text>
+            <text id="宁夏医科大学总医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1281">宁夏医科大学总医院</tspan>
+            </text>
+            <text id="杨军乐" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1979">杨军乐</tspan>
+            </text>
+            <text id="西安市第一医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1979">西安市第一医院</tspan>
+            </text>
+            <text id="魏新华" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1583">魏新华</tspan>
+            </text>
+            <text id="广州市第一人民医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1583">广州市第一人民医院</tspan>
+            </text>
+            <text id="张水兴" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="2155">张水兴</tspan>
+            </text>
+            <text id="暨南大学附属第一医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="2155">暨南大学附属第一医院</tspan>
+            </text>
+            <text id="张-伟" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="2199">张　伟</tspan>
+            </text>
+            <text id="湖南省第二人民医院-|-湖南省脑科医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="2199">湖南省第二人民医院 | 湖南省脑科医院</tspan>
+            </text>
+            <text id="杨智云" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="2023">杨智云</tspan>
+            </text>
+            <text id="中山大学附属第一医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="2023">中山大学附属第一医院</tspan>
+            </text>
+            <text id="罗德红" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2202">罗德红</tspan>
+            </text>
+            <text id="中国医学科学院肿瘤医院深圳医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2202">中国医学科学院肿瘤医院深圳医院</tspan>
+            </text>
+            <text id="吕-栗" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2246">吕　栗</tspan>
+            </text>
+            <text id="四川大学华西医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2246">四川大学华西医院</tspan>
+            </text>
+            <text id="徐坚民" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1803">徐坚民</tspan>
+            </text>
+            <text id="深圳市人民医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1803">深圳市人民医院</tspan>
+            </text>
+            <text id="沈-君" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1451">沈　君</tspan>
+            </text>
+            <text id="中山大学孙逸仙纪念医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1451">中山大学孙逸仙纪念医院</tspan>
+            </text>
+            <text id="邱士军" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1363">邱士军</tspan>
+            </text>
+            <text id="广州中医药大学第一附属医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1363">广州中医药大学第一附属医院</tspan>
+            </text>
+            <text id="毛-俊" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2419">毛　俊</tspan>
+            </text>
+            <text id="珠海市人民医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2419">珠海市人民医院</tspan>
+            </text>
+            <text id="马明平" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2331">马明平</tspan>
+            </text>
+            <text id="福建省立医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2331">福建省立医院</tspan>
+            </text>
+            <text id="林-祺" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1941">林　祺</tspan>
+            </text>
+            <text id="福建省龙岩市第一医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1941">福建省龙岩市第一医院</tspan>
+            </text>
+            <text id="许乙凯" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1891">许乙凯</tspan>
+            </text>
+            <text id="南方医科大学南方医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1891">南方医科大学南方医院</tspan>
+            </text>
+            <text id="向之明" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1671">向之明</tspan>
+            </text>
+            <text id="广州市番禺区中心医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1671">广州市番禺区中心医院</tspan>
+            </text>
+            <text id="陈-峰" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1325">陈　峰</tspan>
+            </text>
+            <text id="海南省人民医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1325">海南省人民医院</tspan>
+            </text>
+            <text id="朱绍成" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="2375">朱绍成</tspan>
+            </text>
+            <text id="河南省人民医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="2375">河南省人民医院</tspan>
+            </text>
+            <text id="李长波" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1853">李长波</tspan>
+            </text>
+            <text id="河南大学淮河医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1853">河南大学淮河医院</tspan>
+            </text>
+            <text id="邓德茂" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1457">邓德茂</tspan>
+            </text>
+            <text id="广西壮族自治区人民医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1457">广西壮族自治区人民医院</tspan>
+            </text>
+            <text id="金观桥" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1721">金观桥</tspan>
+            </text>
+            <text id="广西医科大学附属肿瘤医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1721">广西医科大学附属肿瘤医院</tspan>
+            </text>
+            <text id="沙-炎" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1407">沙　炎</tspan>
+            </text>
+            <text id="复旦大学附属眼耳鼻喉科医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1407">复旦大学附属眼耳鼻喉科医院</tspan>
+            </text>
+            <text id="陶晓峰" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="1495">陶晓峰</tspan>
+            </text>
+            <text id="上海交通大学医学院附属第九人民医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="1495">上海交通大学医学院附属第九人民医院</tspan>
+            </text>
+            <text id="曾庆师" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1039" y="2111">曾庆师</tspan>
+            </text>
+            <text id="山东省千佛山医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="1218" y="2111">山东省千佛山医院</tspan>
+            </text>
+            <text id="郝大鹏" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="1633">郝大鹏</tspan>
+            </text>
+            <text id="青岛大学附属医院" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="1633">青岛大学附属医院</tspan>
+            </text>
+            <text id="鲜军舫" opacity="0.8" font-family="SourceHanSansSC-Bold, Source Han Sans SC" font-size="24" font-weight="bold" fill="#000000">
+                <tspan x="271" y="1230">鲜军舫</tspan>
+            </text>
+            <text id="首都医科大学附属北京同仁医院" opacity="0.8" font-family="SourceHanSansSC-Bold, Source Han Sans SC" font-size="24" font-weight="bold" fill="#000000">
+                <tspan x="450" y="1230">首都医科大学附属北京同仁医院</tspan>
+            </text>
+            <text id="马-林" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2290">马　林</tspan>
+            </text>
+            <text id="中国人民解放军总医院（301医院）" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2290">中国人民解放军总医院（301医院）</tspan>
+            </text>
+            <text id="娄-昕" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="271" y="2117">娄　昕</tspan>
+            </text>
+            <text id="中国人民解放军总医院（301医院）" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="450" y="2117">中国人民解放军总医院（301医院）</tspan>
+            </text>
+            <text id="（按姓氏拼音排序）备份" opacity="0.8" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-size="18" font-weight="400" fill="#000000">
+                <tspan x="251" y="1147">（按姓氏拼音排序）</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

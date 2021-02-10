@@ -1,0 +1,22 @@
+
+@font-face {
+  font-family: 'YouSheBiaoTiHei';
+  /* 重命名字体名 */
+  src: url('./youshe.woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenSans-Italic';
+  src: url('./OpenSans-Italic.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceHanSansSC-Medium';
+  src: url('./SourceHanSansSC-Medium.woff');
+  font-weight: normal;
+  font-style: normal;
+}
