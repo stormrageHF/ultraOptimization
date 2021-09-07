@@ -23,11 +23,13 @@
                 <el-option label="儿童" value="儿童"></el-option>
               </el-select>
             </el-form-item>
+            
             <!-- <el-form-item label="患者性别" prop="PSex">
           <el-radio v-model="submitCaseForm.PSex" label="0">男</el-radio>
           <el-radio v-model="submitCaseForm.PSex" label="1">女</el-radio>
             </el-form-item>-->
             <!-- 18-21；21-25；25以上；无信息 -->
+
             <el-form-item label="BMI" prop="PBMI">
               <el-select v-model="submitCaseForm.PBMI" placeholder="BMI" style="width:100%">
                 <el-option label="18-21" value="18-21"></el-option>
@@ -123,6 +125,7 @@
               ></el-option>
             </el-option-group>
               </el-select>-->
+
             </el-form-item>
             <el-form-item label="机器品牌" prop="JJQPP">
               <el-select v-model="submitCaseForm.JJQPP" placeholder="机器品牌" style="width:100%">

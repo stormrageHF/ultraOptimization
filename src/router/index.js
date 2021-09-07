@@ -21,6 +21,7 @@ const FindPasswordSuccess = () => import("../pages/FindPassword/FindPasswordSucc
 const Msite = () => import("../pages/Msite/Msite.vue")
 const Case = () => import("../pages/Case/Case.vue")
 const Review = () => import("../pages/Review/Review.vue")
+const VideoReview = () => import("../pages/VideoReview/VideoReview.vue")
 const Account = () => import("../pages/Account/Account.vue")
 const Setting = () => import("../pages/Setting/Setting.vue")
 const Expert = () => import("../pages/Expert/Expert.vue")
@@ -28,7 +29,11 @@ const AllCase = () => import("../pages/AllCase/AllCase.vue")
 
 const UploadVideo = () => import("../pages/UploadVideo/UploadVideo.vue")
 const UploadPPT = () => import("../pages/UploadPPT/UploadPPT.vue")
+const ScoreVideo = () => import("@/pages/ScoreVideo/ScoreVideo.vue")
 
+const NRegister = () => import('../pages/NRegister/NRegister.vue')
+const CaseList = () => import('@/pages/CaseList')
+const ViewVideo = () => import('@/pages/ViewVideo')
 
 Vue.use(Router);
 
@@ -112,6 +117,13 @@ const router = new Router({
                     }
                 }
             ]
+        },
+        {
+            path: "/nRegister",
+            component: NRegister,
+            meta: {
+                showUserInfo: false
+            }
         },
         {
             path: "/findpassword",
@@ -234,6 +246,34 @@ const router = new Router({
         {
             path: "/UploadPPT",
             component: UploadPPT,
+        },
+        {
+            path:"/ScoreVideo",
+            component: ScoreVideo,
+        },
+        {
+            path: "/VideoReview",
+            component: VideoReview,
+            meta: {
+                showUserInfo: true,
+                requireAuth: true,
+                activeNum: "9",
+                title: '视频案例审核'
+            }
+        },
+        {
+            path: "/CaseList",
+            component: CaseList,
+            meta: {
+                showUserInfo: true,
+                requireAuth: true,
+                activeNum: "10",
+                title: '案例浏览'
+            }
+        },
+        {
+            path: "/ViewVideo",
+            component: ViewVideo,
         }
     ]
 });

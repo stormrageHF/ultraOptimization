@@ -19,19 +19,10 @@
         <span slot="title">点评专家介绍</span>
       </el-menu-item>
       <el-menu-item class="el-menu-item_cus" index="3" v-show="accountGrade===-1">
-        <span slot="title">登录</span>
+        <span slot="title">注册/登录</span>
       </el-menu-item>
 
-      <!-- <el-submenu index="4">
-        <template slot="title">
-        <span class="sub_span">注册</span>
-        </template>
-        <el-menu-item index="2-1">选项1</el-menu-item>
-        <el-menu-item index="2-2">选项2</el-menu-item>
-        <el-menu-item index="2-3">选项3</el-menu-item>
-      </el-submenu>-->
-
-      <el-menu-item class="el-menu-item_cus" index="4" v-show="accountGrade===-1">
+      <!-- <el-menu-item class="el-menu-item_cus" index="4" v-show="accountGrade===-1">
         <el-dropdown @command="handleCommand">
           <span class="el-dropdown-link">
             注册
@@ -42,6 +33,10 @@
             <el-dropdown-item command="expertRegister">点评专家注册</el-dropdown-item>
           </el-dropdown-menu>
         </el-dropdown>
+      </el-menu-item> -->
+
+      <el-menu-item class="el-menu-item_cus" index="10" v-show="accountGrade === 6">
+        <span slot="title">方案浏览</span>
       </el-menu-item>
 
       <el-menu-item class="el-menu-item_cus" index="5" v-show="accountGrade === 0">
@@ -50,6 +45,11 @@
       <el-menu-item class="el-menu-item_cus" index="6" v-show="accountGrade===1">
         <span slot="title">评审案例</span>
       </el-menu-item>
+      <el-menu-item class="el-menu-item_cus" index="9" v-show="accountGrade===1">
+        <span slot="title">方案点评</span>
+      </el-menu-item>
+      
+      
       <el-menu-item class="el-menu-item_cus" index="7" v-show="accountGrade===2">
         <!-- <span slot="title">用户管理</span> -->
         <el-dropdown @command="handleCommand">
@@ -86,7 +86,7 @@ export default {
   name: "HeaderMenu",
   data() {
     return {
-      activeNum: "1",
+      activeNum: this.$route.meta.activeNum || "1",
       data11: [],
       appoint_name: "",
       appoint_id: "",
@@ -133,6 +133,12 @@ export default {
       }
       if (key == 8) {
         this.$router.push({ path: "/setting" });
+      }
+      if (key == 9) {
+        this.$router.push({ path: "/VideoReview" });
+      }
+      if(key == 10) {
+        this.$router.push({ path: "/caselist" })
       }
     },
     errorMessage: function (res) {
@@ -185,7 +191,8 @@ export default {
   created: function () {
     // this.activeNum = this.$route.meta.activeNum;
     // console.log(this);
-    console.log(this.accountGrade);
+    // console.log(this.accountGrade);
+    console.log(this.$route.meta.activeNum);
   },
   mounted() {},
   updated() {

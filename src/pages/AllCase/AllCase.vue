@@ -1,6 +1,7 @@
 <template>
   <div class="content_box_cus">
     <div v-if="!CreateCaseVisible">
+      
       <div class="filter_box">
         <el-form :inline="true" :model="filterModel">
           <el-form-item label="姓名">

@@ -214,7 +214,6 @@ export default {
       clearInterval(this.sintime);
       this.verifyText = "获取验证码";
     },
-
     register() {
       const that = this;
       Vue.axios

@@ -54,8 +54,9 @@
         </el-form-item>
 
         <el-form-item>
-          <el-button class="register_btn" type="text" @click="goRegister">新用户注册</el-button>
-          <el-button class="register_btn" type="text" @click="goJudgeRegister">点评专家注册</el-button>
+          <el-button class="n_register_btn" type="primary" @click="goNewRegister">用户注册</el-button>
+          <!-- <el-button class="register_btn" type="text" @click="goRegister">新用户注册</el-button> -->
+          <!-- <el-button class="register_btn" type="text" @click="goJudgeRegister">点评专家注册</el-button> -->
         </el-form-item>
       </el-form>
     </div>
@@ -122,6 +123,7 @@ export default {
         if (valid) {
           that.loginRequest(function(res) {
             if (res.status == 204 || res.status == 200) {
+              res.data.AccountGrade = 6; // 全部都是6
               that.$store.dispatch("recordAccountGrade", res.data.AccountGrade);
               that.saveInfo(res.data);
               if (res.data.IsNeedUserInfo) {
@@ -132,10 +134,12 @@ export default {
                 if (res.data.AccountGrade === 0) {
                   that.$router.replace("/case");
                 } else if (res.data.AccountGrade === 1) {
-                  that.$router.replace("/review");
+                  that.$router.replace("/VideoReview");
                 } else if (res.data.AccountGrade === 2) {
                   that.$router.replace("/account");
-                } else {
+                }  else if (res.data.AccountGrade === 6) {
+                  that.$router.replace("/CaseList");
+                }else {
                   that.$router.replace("/");
                 }
               }
@@ -182,6 +186,9 @@ export default {
             func(error);
           }
         });
+    },
+    goNewRegister(){
+      this.$router.push("/nRegister")
     },
     goRegister() {
       this.$router.push("/register");
@@ -298,6 +305,9 @@ export default {
 }
 .register_btn {
   width: 45%;
+}
+.n_register_btn {
+  width: 100%;
 }
 .custom_item {
   margin-bottom: 10px !important;

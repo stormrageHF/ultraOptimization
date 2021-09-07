@@ -27,7 +27,7 @@ if (isRelease) {
 } else {
   axios.defaults.baseURL = 'http://101.200.177.46:8076';
 }
-axios.defaults.timeout = 1000*60*10; // 设置超时
+axios.defaults.timeout = 1000*60*20; // 设置超时
 if (localStorage.getItem('UltraToken')) {
   axios.defaults.headers.common['Authorization'] = localStorage.getItem('UltraToken');
 }

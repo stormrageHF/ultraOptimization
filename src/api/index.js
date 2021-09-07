@@ -124,3 +124,27 @@ export const GetVideoLoginInfo = () => {
 export const GetVideoLoginInfoForMac = ()=>{
     return ajaxReq('Login/GetVideoLoginInfoForMac')
 }
+// 获取视频评分案例
+export const GetPaitentCaseForVideoAudit = () => {
+    return ajaxReq('PatientCase/GetPaitentCaseForVideoAudit')
+}
+// 提交视频审核评分
+export const SocreVideoPatientCase = (data) => {
+    return ajaxReq('PatientCase/SocreVideoPatientCase', data, 'POST')
+}
+
+// 注册浏览用户
+export const QueryUserRegister = data => {
+    return ajaxReq('Login/QueryUserRegister', data , 'POST')
+}
+
+// 获取浏览案例内容
+export const GetPaitentCaseForQueryByPage = data => {
+    return ajaxReq('PatientCase/GetPaitentCaseForQueryByPage', data, 'POST')
+}
+
+// 获取案例详情
+export const GetPatientCaseDetailForQuery = data => {
+    return ajaxReq('PatientCase/GetPatientCaseDetailForQuery', data, 'GET')
+}
+

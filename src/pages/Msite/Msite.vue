@@ -11,7 +11,7 @@
           <div>
             <img
               style="width: 800px"
-              src="./images/4821607658739_.pic_hd.jpg"
+              src="./images/bgLogo.png"
               alt=""
             />
           </div>
