@@ -123,7 +123,9 @@ export default {
         if (valid) {
           that.loginRequest(function(res) {
             if (res.status == 204 || res.status == 200) {
-              res.data.AccountGrade = 6; // 全部都是6
+              if(res.data.AccountGrade != 2){ // 非管理员
+                res.data.AccountGrade = 6; // 全部都是6
+              }
               that.$store.dispatch("recordAccountGrade", res.data.AccountGrade);
               that.saveInfo(res.data);
               if (res.data.IsNeedUserInfo) {
