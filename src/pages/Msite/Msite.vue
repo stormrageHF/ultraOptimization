@@ -7,7 +7,8 @@
         indicator-position="outside"
         interval="10000"
       >
-        <el-carousel-item key="img">
+
+        <!-- <el-carousel-item key="img">
           <div>
             <img
               style="width: 800px"
@@ -15,7 +16,8 @@
               alt=""
             />
           </div>
-        </el-carousel-item>
+        </el-carousel-item> -->
+
         <el-carousel-item key="video">
           <div>
             <video

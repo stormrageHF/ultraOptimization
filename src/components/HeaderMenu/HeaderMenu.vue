@@ -16,7 +16,10 @@
         <span slot="title">项目介绍</span>
       </el-menu-item>
       <el-menu-item class="el-menu-item_cus" index="2">
-        <span slot="title">点评专家介绍</span>
+        <span slot="title">评审专家名单</span>
+      </el-menu-item>
+      <el-menu-item class="el-menu-item_cus" index="11">
+        <span slot="title">优秀案例名单</span>
       </el-menu-item>
       <el-menu-item class="el-menu-item_cus" index="3" v-show="accountGrade===-1">
         <span slot="title">注册/登录</span>
@@ -36,7 +39,7 @@
       </el-menu-item> -->
 
       <el-menu-item class="el-menu-item_cus" index="10" v-show="accountGrade === 6">
-        <span slot="title">方案浏览</span>
+        <span slot="title">优秀案例</span>
       </el-menu-item>
 
       <el-menu-item class="el-menu-item_cus" index="5" v-show="accountGrade === 0">
@@ -139,6 +142,9 @@ export default {
       }
       if(key == 10) {
         this.$router.push({ path: "/caselist" })
+      }
+      if(key == 11) {
+        this.$router.push({ path: "/namelist" })
       }
     },
     errorMessage: function (res) {

@@ -1,19 +1,7 @@
 <template>
   <div class="content_box">
-    <div class="imgbox">
-      <img src="@/assets/images/expert/committee2.svg" alt />
-    </div>
-    <div class="imgbox">
-      <img src="@/assets/images/expert/head.svg" alt />
-    </div>
-    <div class="imgbox">
-      <img src="@/assets/images/expert/chest.svg" alt />
-    </div>
-    <div class="imgbox">
-      <img src="@/assets/images/expert/abdomen.svg" alt />
-    </div>
-    <div class="imgbox">
-      <img src="@/assets/images/expert/peripheral.svg" alt />
+    <div class="imgbox" v-for="img in imgs" :key="img">
+      <img :src="img" alt />
     </div>
   </div>
 
@@ -27,15 +15,24 @@
       </el-carousel-item>
     </el-carousel>
   </div> -->
-  
 </template>
 
 <script>
 export default {
-  name: "Expert",
+  name: "NameList",
   data() {
     return {
-      // imgs: [require("@/pages/Expert/ExpertImages/committee.svg")],
+      imgs: [
+        require("@/pages/NameList/NameImages/excellent1.jpg"),
+        require("@/pages/NameList/NameImages/excellent2.jpg"),
+        require("@/pages/NameList/NameImages/excellent3.jpg"),
+        require("@/pages/NameList/NameImages/excellent4.jpg"),
+        require("@/pages/NameList/NameImages/excellent5.jpg"),
+        require("@/pages/NameList/NameImages/excellent6.jpg"),
+        require("@/pages/NameList/NameImages/excellent7.jpg"),
+        require("@/pages/NameList/NameImages/excellent8.jpg"),
+        require("@/pages/NameList/NameImages/excellent9.jpg"),
+      ],
     };
   },
 };
@@ -58,8 +55,8 @@ export default {
 }
 img {
   width: 100%;
+  vertical-align: middle;
 }
 .carouselBox {
-
 }
 </style>

@@ -35,6 +35,8 @@ const NRegister = () => import('../pages/NRegister/NRegister.vue')
 const CaseList = () => import('@/pages/CaseList')
 const ViewVideo = () => import('@/pages/ViewVideo')
 
+const NameList = ()=>import('@/pages/NameList/NameList.vue')
+
 Vue.use(Router);
 
 //push 
@@ -235,7 +237,18 @@ const router = new Router({
                 showUserInfo: true,
                 requireAuth: false,
                 activeNum: "2",
-                title: '点评专家介绍'
+                title: '评审专家名单'
+
+            }
+        },
+        {
+            path: "/NameList",
+            component: NameList,
+            meta: {
+                showUserInfo: true,
+                requireAuth: false,
+                activeNum: "11",
+                title: '优秀案例名单'
 
             }
         },

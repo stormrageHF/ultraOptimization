@@ -39,12 +39,27 @@
           </el-col>
         </el-form-item>
 
-        <el-form-item label="机器品牌">
+        <!-- <el-form-item label="机器品牌">
           <el-input
             v-model="filterModel.JJQPP"
             type="text"
             placeholder="机器品牌"
           ></el-input>
+        </el-form-item> -->
+
+        <el-form-item label="机器品牌">
+          <el-select
+            v-model="filterModel.JJQPP"
+            placeholder="机器品牌"
+            style="width: 100%"
+          >
+            <el-option label="西门子" value="西门子"></el-option>
+            <el-option label="GE" value="GE"></el-option>
+            <el-option label="飞利浦" value="飞利浦"></el-option>
+            <el-option label="东芝" value="东芝"></el-option>
+            <el-option label="东软" value="东软"></el-option>
+            <el-option label="联影" value="联影"></el-option>
+          </el-select>
         </el-form-item>
 
         <el-form-item>
@@ -55,8 +70,8 @@
     <div>
       <el-table :data="dataSource">
         <el-table-column type="index" width="50"></el-table-column>
-        <!-- <el-table-column label="姓名" prop="DoctorName"></el-table-column> -->
-        <!-- <el-table-column label="医院" prop="HospitalName"></el-table-column> -->
+        <el-table-column label="提供案例医生" prop="DoctorName"></el-table-column>
+        <el-table-column label="医院" prop="HospitalName" width="200"></el-table-column>
         <el-table-column label="扫描部位" prop="JSMBW"></el-table-column>
         <el-table-column label="机器品牌" prop="JJQPP"></el-table-column>
         <!-- <el-table-column label="排数" prop="JPS"></el-table-column> -->
@@ -66,6 +81,7 @@
             <span>{{ scope.row.VideoScoreState | formatState }}</span>
           </template>
         </el-table-column> -->
+        <el-table-column label="点评专家" prop="AuditDoctorName"></el-table-column>
 
         <el-table-column fixed="right" label="操作">
           <template slot-scope="scope">
@@ -132,10 +148,10 @@ export default {
               value: "甲状腺",
               label: "甲状腺",
             },
-            {
-              value: "其他",
-              label: "其他",
-            },
+            // {
+            //   value: "其他",
+            //   label: "其他",
+            // },
           ],
         },
         {
@@ -153,10 +169,10 @@ export default {
               value: "肺部",
               label: "肺部",
             },
-            {
-              value: "其他",
-              label: "其他",
-            },
+            // {
+            //   value: "其他",
+            //   label: "其他",
+            // },
           ],
         },
         {
@@ -190,10 +206,10 @@ export default {
               value: "肾",
               label: "肾",
             },
-            {
-              value: "其他",
-              label: "其他",
-            },
+            // {
+            //   value: "其他",
+            //   label: "其他",
+            // },
           ],
         },
         {
@@ -207,21 +223,21 @@ export default {
               value: "双下肢",
               label: "双下肢",
             },
-            {
-              value: "其他",
-              label: "其他",
-            },
+            // {
+            //   value: "其他",
+            //   label: "其他",
+            // },
           ],
         },
-        {
-          label: "其他",
-          options: [
-            {
-              value: "其他",
-              label: "其他",
-            },
-          ],
-        },
+        // {
+        //   label: "其他",
+        //   options: [
+        //     {
+        //       value: "其他",
+        //       label: "其他",
+        //     },
+        //   ],
+        // },
       ],
       options2: [],
       currentPage: 1,
@@ -237,7 +253,7 @@ export default {
     },
     async GetPaitentCaseForQueryByPageAsync() {
       const r = await GetPaitentCaseForQueryByPage({
-        ...this.filterModel
+        ...this.filterModel,
       });
       if (r.code === 1) {
         // console.log(r.data);
